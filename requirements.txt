@@ -5,4 +5,5 @@ pymysql
 psycopg2-binary
 st-pages
 streamlit-extras
+supabase
 yt-dlp>=2023.10.13
